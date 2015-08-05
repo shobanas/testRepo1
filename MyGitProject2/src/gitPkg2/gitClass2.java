@@ -7,6 +7,9 @@ public class gitClass2 {
 
 		 System.out.println ("in Git Class2");
 		 
+		 System.out.println ("second print in Git class2");
+		 
+		 
 		
 	}
 
